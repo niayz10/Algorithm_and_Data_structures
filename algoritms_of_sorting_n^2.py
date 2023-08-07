@@ -41,3 +41,4 @@ if __name__ == '__main__':
     test_alrorithms(insert_sort)
     test_alrorithms(selection_sort)
     test_alrorithms(bubble_sort)
+    
